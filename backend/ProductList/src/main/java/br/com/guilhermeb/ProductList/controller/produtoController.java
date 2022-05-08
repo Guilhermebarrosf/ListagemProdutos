@@ -49,7 +49,7 @@ public class produtoController {
 
     /**
      * Metodo para salvar Produto no banco de dados
-     * @param TODAS as informações do veiculo recebidas por parametro
+     * @param TODAS as informações do produto recebidas por parametro
      * @return Produto
      */
     @PostMapping(value= "incluir-produto")

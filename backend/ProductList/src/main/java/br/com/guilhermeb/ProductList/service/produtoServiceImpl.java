@@ -22,7 +22,7 @@ public class produtoServiceImpl implements produtoService{
 
     /**
      * TRATAMENTO DE INFORMAÇÕES PARA METODO DE INCLUSÃO
-     * @param produto contendo todas as informações coletadas nos campos do usuario
+     * @param produto contendo todas as informações coletadas nos campos do produto
      */
     @Override
     public Produto incluir(Produto produto) {
